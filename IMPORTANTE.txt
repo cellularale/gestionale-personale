@@ -1,0 +1,2 @@
+Questa cartella contiene /backend pronto da copiare nella tua repo GitHub.
+Non include il frontend esistente. Copia backend/, .gitignore e README.md nella repo.

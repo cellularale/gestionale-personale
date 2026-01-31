@@ -1,0 +1,4 @@
+Cartella assets
+
+Questa cartella puo' contenere immagini/loghi opzionali usati dall'interfaccia.
+Attualmente non sono richiesti file specifici.
