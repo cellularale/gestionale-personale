@@ -9,10 +9,15 @@ venv/
 # Streamlit
 .streamlit/
 
-# Excel DB + runtime
+# Excel: ignora tutto...
 *.xlsx
 *.xlsm
 *.xls
+
+# ...ma tieni in repo questo asset dei festivi
+!backend/app/data/Festivitalia.xlsx
+
+# DB runtime (sempre fuori repo)
 backend/data/
 backend/backups/
 exports/
